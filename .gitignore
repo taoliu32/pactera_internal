@@ -31,5 +31,7 @@ dependency-reduced-pom.xml
 
 /custom/pactera/*/gensrc/
 /custom/pactera/*/testsrc/
+/custom/pactera/*/classes/
+/custom/pactera/*/build.xml
 
 /config/solr/instances/
