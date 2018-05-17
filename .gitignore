@@ -29,12 +29,10 @@ dependency-reduced-pom.xml
 *.iws
 *.idea 
 
-/custom/pactera/*/gensrc/
-/custom/pactera/*/testsrc/
-/custom/pactera/*/classes/
-/custom/pactera/*/build.xml
-/custom/pactera/*/gensrc/*.java
-/custom/pactera/*/testsrc/*.java
-/custom/pactera/pacteracockpits/gensrc
+gensrc/
+testsrc/
+classes/
+
 
 /config/solr/instances/
+
